@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_the_alphabet - In lowercase.
+ * print_alphabet - In lowercase.
  *
  * return:void
  */
 
-void print_the_alphabet(void)
+void print_alphabet(void)
 {
 char ch;
 for (ch = 'a'; ch <= 'z'; ch++)
