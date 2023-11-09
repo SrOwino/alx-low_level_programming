@@ -51,6 +51,6 @@ return 0;
 
 r[k] = '\0';
 
-return r;
+return (r);
 }
 
